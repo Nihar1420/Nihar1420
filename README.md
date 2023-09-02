@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar1420&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1420" /> </p>
 
-- 🔭 I’m currently working on **CRYPTRADE - Creating and trading NFTs on a blockchain based platform**
+- 🔭 I’m currently working on **GUPSUP - a chat application using react, nodejs, express, mongodb and socket.io**
 
-- 🌱 I’m currently learning **Next js and Blockchain**
+- 🌱 I’m currently learning **Next js and Problem Solving along with algorithms**
 
 - 👨‍💻 All of my projects are available at [https://nihar1420.github.io/niharportfoliowebsite/](https://nihar1420.github.io/niharportfoliowebsite/)
 
-- 💬 Ask me about **react , java , tailwind css**
+- 💬 Ask me about **react , java , material ui**
 
 - 📫 How to reach me **niharranjanhota864@gmail.com**
 
