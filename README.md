@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nihar1420.github.io/niharportfoliowebsite/](https://nihar1420.github.io/niharportfoliowebsite/)
 
-- 💬 Ask me about **react , java , material ui**
+- 💬 Ask me about **react , java , material ui, tailwind css**
 
 - 📫 How to reach me **niharranjanhota864@gmail.com**
 
