@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar1420&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1420" /> </p>
 
-- 🔭 I’m currently working on **GUPSUP - a chat application using react, nodejs, express, mongodb and socket.io**
+- 🔭 I’m currently working on **EventManagerMe - An Event Management web app made using NextJS, TailwindCSS , NodeJS ,Clerk , Stripe**
 
 - 🌱 I’m currently learning **Next js and Problem Solving along with algorithms**
 
