@@ -1,6 +1,6 @@
 # Nihar Ranjan Hota
 
-**Senior Full-Stack Engineer & AI Solutions Architect** — I design and ship AI-native products, and lead a small senior team delivering them to enterprise clients across Germany, Italy, and the UAE.
+**Senior Full-Stack Engineer & AI Solutions Architect** - I design and ship AI-native products, and lead a small senior team delivering them to enterprise clients across Germany, Italy, and the UAE.
 
 ~7 years building full-stack systems · now focused on LLM agents, RAG, and multi-agent architectures.
 **Open to senior IC / architect roles building AI-native products.**
@@ -32,18 +32,18 @@
 ### Featured work
 
 **[Githancer](https://www.npmjs.com/package/githancer-cli)** &nbsp; ![npm](https://img.shields.io/npm/v/githancer-cli?style=flat-square&color=CB3837&logo=npm)
-Git repository timeline-management platform, shipped as a published CLI (`npx githancer-cli`). PNPM monorepo (NestJS API + Next.js dashboard), deployed on Railway + Vercel with full CI/CD — built end-to-end with an agentic, Claude-driven development workflow.
+Git repository timeline-management platform, shipped as a published CLI (`npx githancer-cli`). PNPM monorepo (NestJS API + Next.js dashboard), deployed on Railway + Vercel with full CI/CD - built end-to-end with an agentic, Claude-driven development workflow.
 
 **[Agenthire](https://github.com/Nihar1420/Agenthire-2.0)**
-Autonomous 24/7 job & freelance application agent — an orchestrator delegates to specialized agents (job discovery, hirer enrichment, application outreach) running on Groq + Gemini, with Playwright stealth automation and IMAP/Resend email pipelines on a cron schedule. The interesting part is the spec-driven agent architecture with explicit per-role model routing.
+Autonomous 24/7 job & freelance application agent - an orchestrator delegates to specialized agents (job discovery, hirer enrichment, application outreach) running on Groq + Gemini, with Playwright stealth automation and IMAP/Resend email pipelines on a cron schedule. The interesting part is the spec-driven agent architecture with explicit per-role model routing.
 
 ### Live builds
 
-**[reel-purpose](https://github.com/Nihar1420/reel-purpose)** — [reelpurpose.fishing](https://reelpurpose.fishing)
+**[reel-purpose](https://github.com/Nihar1420/reel-purpose)** - [reelpurpose.fishing](https://reelpurpose.fishing)
 Full-stack e-commerce platform (Next.js, Prisma, TypeScript) with product catalog, cart, and checkout.
 
 **[GeneratorAudioDrops](https://github.com/Nihar1420/GeneratorAudioDrops)**
-AI audio-generation web app (Next.js + TypeScript) — multi-stage audio engine with voice preview. → [generator.audiodjdrops.com](https://generator.audiodjdrops.com)
+AI audio-generation web app (Next.js + TypeScript) - multi-stage audio engine with voice preview. → [generator.audiodjdrops.com](https://generator.audiodjdrops.com)
 
 ---
 
@@ -61,6 +61,6 @@ AI audio-generation web app (Next.js + TypeScript) — multi-stage audio engine 
 
 ### Connect
 
-- 🌐 Portfolio — https://nihar-dev.vercel.app
-- 💼 LinkedIn — https://www.linkedin.com/in/nihar-ranjan-hota/
+- 🌐 Portfolio - https://nihar-dev.vercel.app
+- 💼 LinkedIn - https://www.linkedin.com/in/nihar-ranjan-hota/
 - ✉️ niharranjanhota864@gmail.com
