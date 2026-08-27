@@ -1,36 +1,61 @@
+# Nihar Ranjan Hota
 
-<h1 align="center">Hi 👋, I'm Nihar Ranjan Hota</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelKwpVcKd8BG-PSoKyLTX9rNcuXNY-eTAMJXA64P2&s">
+**Senior Full-Stack Engineer & AI Solutions Architect** — I design and ship AI-native products, and lead a small senior team delivering them to enterprise clients across Germany, Italy, and the UAE.
 
+~7 years building full-stack systems · now focused on LLM agents, RAG, and multi-agent architectures.
+**Open to senior IC / architect roles building AI-native products.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar1420&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1420" /> </p>
+---
 
-- 🔭 I’m currently working on **EventManagerMe - An Event Management web app made using NextJS, TailwindCSS , NodeJS ,Clerk , Stripe**
+### Tech
 
-- 🌱 I’m currently learning **Next js and Problem Solving along with algorithms**
+**Full-stack**
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET%20/%20C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/PHP%20/%20Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
 
-- 👨‍💻 All of my projects are available at [https://nihar1420.github.io/niharportfoliowebsite/](https://nihar1420.github.io/niharportfoliowebsite/)
+**AI / LLM**
+![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0A7BBB?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20pipelines-4B8BBE?style=flat-square)
 
-- 💬 Ask me about **react , java , material ui, tailwind css**
+---
 
-- 📫 How to reach me **niharranjanhota864@gmail.com**
+### Featured work
 
-- 📄 Know about my experiences [https://nihar1420.github.io/niharportfoliowebsite/](https://nihar1420.github.io/niharportfoliowebsite/)
+**[Githancer](https://www.npmjs.com/package/githancer-cli)** &nbsp; ![npm](https://img.shields.io/npm/v/githancer-cli?style=flat-square&color=CB3837&logo=npm)
+Git repository timeline-management platform, shipped as a published CLI (`npx githancer-cli`). PNPM monorepo (NestJS API + Next.js dashboard), deployed on Railway + Vercel with full CI/CD — built end-to-end with an agentic, Claude-driven development workflow.
 
-- ⚡ Fun fact **Life is easy when you work on harder things**
+**[Agenthire](https://github.com/Nihar1420/Agenthire-2.0)**
+Autonomous multi-agent system for the hiring market — an orchestrator delegates to specialized agents (sourcing, enrichment, outreach) running on Groq + Gemini, with Playwright stealth automation and IMAP/Resend email pipelines on a cron schedule. The interesting part is the spec-driven agent architecture with explicit per-role model routing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nihar-ranjan-hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nihar-ranjan-hota" height="30" width="40" /></a>
-<a href="https://instagram.com/nihar_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihar_14" height="30" width="40" /></a>
-</p>
+### Live builds
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**[reel-purpose](https://github.com/Nihar1420/reel-purpose)** — [reelpurpose.fishing](https://reelpurpose.fishing)
+Full-stack e-commerce platform (Next.js, Prisma, TypeScript) with product catalog, cart, and checkout.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihar1420&show_icons=true&locale=en&layout=compact" alt="nihar1420" /></p>
+**[GeneratorAudioDrops](https://github.com/Nihar1420/GeneratorAudioDrops)**
+AI audio-generation web app (Next.js + TypeScript) — multi-stage audio engine with voice preview. → [generator.audiodjdrops.com](https://generator.audiodjdrops.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihar1420&show_icons=true&locale=en" alt="nihar1420" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar1420&" alt="nihar1420" /></p>
+### GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nihar1420&show_icons=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihar1420&layout=compact&langs_count=8&hide_border=true&theme=transparent)
+
+---
+
+### Connect
+
+- 🌐 Portfolio — https://nihar-dev.vercel.app
+- 💼 LinkedIn — https://www.linkedin.com/in/nihar-ranjan-hota/
+- ✉️ niharranjanhota864@gmail.com
