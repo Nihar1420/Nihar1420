@@ -21,10 +21,12 @@ jobs:
           user: Nihar1420
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Show strengths (activity + calendar + languages); drop the zero-heavy
+          # community/repositories sections.
+          base: header, activity
           config_timezone: Asia/Kolkata
 
-          # 3D isometric contribution calendar — the "dynamic" centerpiece
+          # 3D isometric contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
