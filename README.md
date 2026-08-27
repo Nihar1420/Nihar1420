@@ -35,7 +35,7 @@
 Git repository timeline-management platform, shipped as a published CLI (`npx githancer-cli`). PNPM monorepo (NestJS API + Next.js dashboard), deployed on Railway + Vercel with full CI/CD — built end-to-end with an agentic, Claude-driven development workflow.
 
 **[Agenthire](https://github.com/Nihar1420/Agenthire-2.0)**
-Autonomous multi-agent system for the hiring market — an orchestrator delegates to specialized agents (sourcing, enrichment, outreach) running on Groq + Gemini, with Playwright stealth automation and IMAP/Resend email pipelines on a cron schedule. The interesting part is the spec-driven agent architecture with explicit per-role model routing.
+Autonomous 24/7 job & freelance application agent — an orchestrator delegates to specialized agents (job discovery, hirer enrichment, application outreach) running on Groq + Gemini, with Playwright stealth automation and IMAP/Resend email pipelines on a cron schedule. The interesting part is the spec-driven agent architecture with explicit per-role model routing.
 
 ### Live builds
 
@@ -47,10 +47,15 @@ AI audio-generation web app (Next.js + TypeScript) — multi-stage audio engine 
 
 ---
 
-### GitHub
+### Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nihar1420&show_icons=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihar1420&layout=compact&langs_count=8&hide_border=true&theme=transparent)
+<!-- Both images are auto-generated twice a day by GitHub Actions (.github/workflows) -->
+![Metrics](./github-metrics.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihar1420/Nihar1420/output/github-snake-dark.svg">
+  <img alt="My contribution graph as a snake game" src="https://raw.githubusercontent.com/Nihar1420/Nihar1420/output/github-snake.svg">
+</picture>
 
 ---
 
